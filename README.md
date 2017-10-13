@@ -1,2 +1,3 @@
-# novahound
-Nova Hound is a Discord bot that is a full Old-School Roleplaying Game
+# Nova Hound
+The only Discord RPG you'll ever be playing!
+*Features Coming Soon!*
