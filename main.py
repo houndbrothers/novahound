@@ -1,5 +1,7 @@
 import asyncio
 import json
+import logging
+logging.basicConfig(level=logging.WARNING)
 
 from discord.ext import commands
 import asyncpg
