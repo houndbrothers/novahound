@@ -14,6 +14,12 @@ import config
 
 bot.remove_command('help')
 
+@bot.command()
+async def help(ctx):
+    author = ctx.author
+    em = discord.Embed(description="**Hello, welcome to the Hound Brothers Beta V1.0.0**".format(Prefix), color=discord.Color.blue())
+    await ctx.send(embed=em)
+
 async def set_codecs(con):
     await con.set_type_codec('json', schema='pg_catalog',
                              encoder=lambda v: json.dumps(v),
