@@ -4,6 +4,10 @@ import logging
 logging.basicConfig(level=logging.WARNING)
 
 from discord.ext import commands
+except ImportError:
+    print("(Error 1) Discord.py is not installed.")
+    sys.exit(5)
+    
 import asyncpg
 
 import config
