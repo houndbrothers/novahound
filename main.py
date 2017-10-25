@@ -12,6 +12,8 @@ import asyncpg
 
 import config
 
+bot.remove_command('help')
+
 async def set_codecs(con):
     await con.set_type_codec('json', schema='pg_catalog',
                              encoder=lambda v: json.dumps(v),
