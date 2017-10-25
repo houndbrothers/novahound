@@ -1,7 +1,7 @@
 End User License Agreement
 
 
-   1. Houndbrothers.me grants you a non-exclusive license to use Nova Hound
+   1. houndbrothers.me grants you a non-exclusive license to use Nova Hound
       for any legal purpose.
       
    2. Nova Hound is free for both personal and commercial use.
@@ -10,12 +10,11 @@ End User License Agreement
 
    3. You MAY NOT:
       3.1 sublicense, lease, rent, sell this software to other person or 
-          business, without a Resellers License issued by the Hound Brothers;
+          business, without a resellers license issued by the hound brothers;
       3.2 remove any product identification, copyright notices, or other
           notices or proprietary restrictions from this software;
-      3.3 modify, decompile, duplicate, "unlock", reverse-engineer or attempt 
-          to discover the source code or structure, sequence or organization 
-	  of this software;
+      3.3 reverse-engineer this software to attack, break, or 
+          cause malicious activity;
 
    4. NOVA HOUND IS DISTRIBUTED "AS IS".
       NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.
@@ -24,8 +23,10 @@ End User License Agreement
       DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF
       LOSS WHILE USING OR MISUSING THIS SOFTWARE.
 	  
-   5. Using Nova Hound signifies acceptance of these terms 
-      and conditions of the license.
+   5. Using nova hound signifies acceptance of these terms 
+      and conditions of the license, without this liscense
+      we may remove nova hound from any user, datbase, 
+      or server who uses the software.
 	  
 
-   Copyright 2017 Houndbrothers.me, All rights reserved.
+   Copyright 2017 houndbrothers.me, All rights reserved.
